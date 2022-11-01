@@ -56,7 +56,30 @@ from bson.objectid import ObjectId
 result = collection.find_one({'_id': ObjectId('63612746ba338fdea9246595')})
 print(result)
 # 查询多个结果使用find方法
-results = collection.find({'age': {'$lt':20}})
+results = collection.find({'age': {'$lt': 20}})
 print(results)
 for res in results:
     print(res)
+
+# 排序
+results = collection.find().sort('age', pymongo.ASCENDING)
+print([result['name'] for result in results])
+
+# 偏移
+results = collection.find().sort('age', pymongo.ASCENDING).skip(30)
+print([result['name'] for result in results])
+
+# 更新
+codition = {'name': 'Tom'}
+student = collection.find_one(codition)
+student['age'] = 25
+result = collection.update_one(codition, {'$set': student})
+print(result)
+
+# 删除，对满足条件的全部是删除
+result= collection.delete_one({'name': 'Tom'})
+print(result)
+print(result.deleted_count)
+result= collection.delete_many({'age': {'$lt':25}})
+print(result)
+print(result.deleted_count)
