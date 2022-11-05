@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6971e537-f0dd-408f-9cc1-17916e769c10" name="变更" comment="add gitignore">
+      <change afterPath="$PROJECT_DIR$/第7章 Javascript动态渲染页面爬取/Selenium_动作链.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第7章 Javascript动态渲染页面爬取/Selenium_查找节点.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第7章 Javascript动态渲染页面爬取/Selenium_节点交互.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第7章 Javascript动态渲染页面爬取/Selenium的使用.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Python3WebSpider.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python3WebSpider.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-22.3.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-22.3.dist-info/RECORD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/pip.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/pip.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/pip3.10.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/pip3.10.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/pip3.11.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/pip3.11.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/pip3.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/pip3.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第4章 数据的存取/MongoDB文档存储.py" beforeDir="false" afterPath="$PROJECT_DIR$/第4章 数据的存取/MongoDB文档存储.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第6章 异步爬虫/aiohttp异步爬虫实战.py" beforeDir="false" afterPath="$PROJECT_DIR$/第6章 异步爬虫/aiohttp异步爬虫实战.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GokG44xfLKq5mgB4szhGNDnOPL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Github/Python3WebSpider/第7章 Javascript动态渲染页面爬取",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Github\Python3WebSpider\第7章 Javascript动态渲染页面爬取" />
+      <recent name="D:\Github\Python3WebSpider\第4章 数据的存取" />
+      <recent name="D:\Github\Python3WebSpider\第6章 异步爬虫" />
+      <recent name="D:\Github\Python3WebSpider\第2章基本库的使用" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Selenium_动作链">
+    <configuration name="Selenium的使用" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python3WebSpider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第7章 Javascript动态渲染页面爬取" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第7章 Javascript动态渲染页面爬取/Selenium的使用.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Selenium_查找节点" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python3WebSpider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第7章 Javascript动态渲染页面爬取" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第7章 Javascript动态渲染页面爬取/Selenium_查找节点.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Selenium_节点交互" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python3WebSpider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第7章 Javascript动态渲染页面爬取" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第7章 Javascript动态渲染页面爬取/Selenium_节点交互.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Selenium_动作链" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python3WebSpider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第7章 Javascript动态渲染页面爬取" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第7章 Javascript动态渲染页面爬取/Selenium_动作链.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="aiohttp异步爬虫实战" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python3WebSpider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第6章 异步爬虫" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第6章 异步爬虫/aiohttp异步爬虫实战.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Selenium_动作链" />
+        <item itemvalue="Python.Selenium_节点交互" />
+        <item itemvalue="Python.Selenium_查找节点" />
+        <item itemvalue="Python.Selenium的使用" />
+        <item itemvalue="Python.aiohttp异步爬虫实战" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="6971e537-f0dd-408f-9cc1-17916e769c10" name="变更" comment="" />
+      <created>1667062225133</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667062225133</updated>
+      <workItem from="1667062226418" duration="3526000" />
+      <workItem from="1667104109131" duration="119000" />
+      <workItem from="1667128355108" duration="28934000" />
+      <workItem from="1667284633698" duration="17342000" />
+      <workItem from="1667321239567" duration="53000" />
+      <workItem from="1667321308158" duration="213000" />
+      <workItem from="1667400812348" duration="4479000" />
+      <workItem from="1667408350691" duration="883000" />
+      <workItem from="1667460388893" duration="3200000" />
+      <workItem from="1667464658108" duration="252000" />
+      <workItem from="1667465395636" duration="70000" />
+      <workItem from="1667465479416" duration="401000" />
+      <workItem from="1667467546691" duration="2845000" />
+      <workItem from="1667531593479" duration="5173000" />
+      <workItem from="1667578178907" duration="1215000" />
+      <workItem from="1667624183013" duration="3497000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="add gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="add gitignore" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Python3WebSpider$Selenium.coverage" NAME="Selenium的使用 覆盖结果" MODIFIED="1667624491015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第7章 Javascript动态渲染页面爬取" />
+    <SUITE FILE_PATH="coverage/Python3WebSpider$urlopen.coverage" NAME="urlopen方法 覆盖结果" MODIFIED="1667064226415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第2章基本库的使用" />
+    <SUITE FILE_PATH="coverage/Python3WebSpider$CSV.coverage" NAME="CSV文件存储 覆盖结果" MODIFIED="1667297125854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第4章 数据的存取" />
+    <SUITE FILE_PATH="coverage/Python3WebSpider$requestsCookies.coverage" NAME="requestsCookies设置 覆盖结果" MODIFIED="1667131125509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第2章基本库的使用" />
+    <SUITE FILE_PATH="coverage/Python3WebSpider$aiohttpPOST.coverage" NAME="aiohttpPOST请求 覆盖结果" MODIFIED="1667287512032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第6章 异步爬虫" />
+    <SUITE FILE_PATH="coverage/Python3WebSpider$Selenium_.coverage" NAME="Selenium_节点交互 覆盖结果" MODIFIED="1667628858075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第7章 Javascript动态渲染页面爬取" />
+    <SUITE FILE_PATH="coverage/Python3WebSpider$requestsSSL.coverage" NAME="requestsSSL证书 覆盖结果" MODIFIED="1667131934276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第2章基本库的使用" />
+    <SUITE FILE_PATH="coverage/Python3WebSpider$aiohttp.coverage" NAME="aiohttp异步爬虫实战 覆盖结果" MODIFIED="1667535090542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第6章 异步爬虫" />
+    <SUITE FILE_PATH="coverage/Python3WebSpider$pyquery.coverage" NAME="pyquery的使用 覆盖结果" MODIFIED="1667208145542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第3章网页数据的解析提取" />
+    <SUITE FILE_PATH="coverage/Python3WebSpider$aiohttpURL.coverage" NAME="aiohttp的使用URL参数设置 覆盖结果" MODIFIED="1667224650525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第6章 异步爬虫" />
+    <SUITE FILE_PATH="coverage/Python3WebSpider$httpx.coverage" NAME="httpx的使用 覆盖结果" MODIFIED="1667142125069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第2章基本库的使用" />
+    <SUITE FILE_PATH="coverage/Python3WebSpider$.coverage" NAME="文本文件存储 覆盖结果" MODIFIED="1667295398101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第4章 数据的存取" />
+    <SUITE FILE_PATH="coverage/Python3WebSpider$urllib.coverage" NAME="urllib的使用 覆盖结果" MODIFIED="1667063045506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第2章基本库的使用" />
+    <SUITE FILE_PATH="coverage/Python3WebSpider$mysql.coverage" NAME="mysql存储 覆盖结果" MODIFIED="1667309330957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第4章 数据的存取" />
+    <SUITE FILE_PATH="coverage/Python3WebSpider$Xpath.coverage" NAME="Xpath的使用 覆盖结果" MODIFIED="1667207511477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第3章网页数据的解析提取" />
+    <SUITE FILE_PATH="coverage/Python3WebSpider$redis_.coverage" NAME="redis的使用_字符串操作 覆盖结果" MODIFIED="1667408192496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第4章 数据的存取" />
+    <SUITE FILE_PATH="coverage/Python3WebSpider$JSON.coverage" NAME="JSON文件存储 覆盖结果" MODIFIED="1667296826711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第4章 数据的存取" />
+    <SUITE FILE_PATH="coverage/Python3WebSpider$MongoDB.coverage" NAME="MongoDB文档存储 覆盖结果" MODIFIED="1667534386913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第4章 数据的存取" />
+    <SUITE FILE_PATH="coverage/Python3WebSpider$requests.coverage" NAME="requests身份认证 覆盖结果" MODIFIED="1667132319078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第2章基本库的使用" />
+    <SUITE FILE_PATH="coverage/Python3WebSpider$redis.coverage" NAME="redis的使用 覆盖结果" MODIFIED="1667320787483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第4章 数据的存取" />
+    <SUITE FILE_PATH="coverage/Python3WebSpider$Elasticsearch.coverage" NAME="Elasticsearch搜索引擎存储 覆盖结果" MODIFIED="1667404162771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第4章 数据的存取" />
+  </component>
+</project>

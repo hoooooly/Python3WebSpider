@@ -77,9 +77,9 @@ result = collection.update_one(codition, {'$set': student})
 print(result)
 
 # 删除，对满足条件的全部是删除
-result= collection.delete_one({'name': 'Tom'})
+result = collection.delete_one({'name': 'Tom'})
 print(result)
 print(result.deleted_count)
-result= collection.delete_many({'age': {'$lt':25}})
+result = collection.delete_many({'age': {'$lt': 25}})
 print(result)
 print(result.deleted_count)
